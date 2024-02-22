@@ -1,10 +1,12 @@
+:root {
+    --nada: #000000;
+    --branco: #df1616;
+    --texto-fundo: rgba(58, 55, 94, 0.3);
+}
+
+
 body {
-    --cor-de-fundo:  var(--cor-de-fundo);
+    --nada:  var(--nada);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
-}
-:root {
-    --cor-de-fundo: #000000;
-    --branco: #FFFFFF;
-    --texto-fundo: rgba(58, 55, 94, 0.3);
 }
