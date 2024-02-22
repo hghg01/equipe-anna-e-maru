@@ -6,7 +6,7 @@
 
 
 body {
-    --background-color:  var(--nada);
+    background-color:  var(--nada);
     color: var(--cor-de-font);
     font-family: 'Chakra Petch', sans-serif;
 }
