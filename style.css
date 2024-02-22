@@ -1,12 +1,12 @@
 :root {
-    --nada: #000000;
-    --branco: #df1616;
+    --nada: #ffffff;
+    --cor-de-font: #df1616;
 
 }
 
 
 body {
     --background-color:  var(--nada);
-    color: var(--branco);
+    color: var(--cor-de-font);
     font-family: 'Chakra Petch', sans-serif;
 }
