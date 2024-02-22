@@ -10,3 +10,8 @@ body {
     color: var(--cor-de-font);
     font-family: 'Stencil Std', serif;
 }
+
+.fotos-gatos { 
+    width: 20%;
+
+}
