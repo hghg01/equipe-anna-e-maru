@@ -1,0 +1,1 @@
+const oii = document.querySelectorAll("button");
