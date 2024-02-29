@@ -11,7 +11,9 @@ body {
     font-family: 'Stencil Std', serif;
 }
 
-.fotos-gatos { 
+/* #  para id */
+
+#fotos-gatos { 
     width: 20%;
 
 }
