@@ -1,1 +1,1 @@
-const oi = document.querySelectorAll("button");
+prompt('Qual é o seu nome?');
