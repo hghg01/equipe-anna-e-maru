@@ -5,7 +5,7 @@
     nome_user = prompt('Qual é o seu nome?');
  }
 
- if(){
+ if( nome_user == null ){
 fulano.textContent = 'usuário';
  }else{
     fulano.textContent = nome_user;
