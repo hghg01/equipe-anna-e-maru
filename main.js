@@ -1,1 +1,1 @@
-const oii = document.querySelectorAll("button");
+const oi = document.querySelectorAll("button");
