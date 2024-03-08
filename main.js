@@ -8,7 +8,6 @@
  if(){
 fulano.textContent = 'usuário';
  }else{
+    fulano.textContent = nome_user;
 
  }
-
- fulano.textContent = nome_user;
