@@ -3,7 +3,9 @@ let numeroSecreto = 7;
 let chute = prompt('Escolha um número de 0 a 10');
 
 if(numeroSecreto == chute){
-    alert('Parabéns, você acertou!!!')
+    alert('Parabéns, você acertou!!!');
+
 }else{
-    alert('Tenta de novo, você errou')
+    alert('Tenta de novo, você errou');
+    
 }
